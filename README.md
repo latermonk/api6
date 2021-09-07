@@ -30,3 +30,6 @@ helm install apisix-dashboard apisix/apisix-dashboard
 
 ##  hands-on on apisix-dashboard
 
+
+![main](_image/main.png)
+
