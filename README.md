@@ -33,3 +33,10 @@ helm install apisix-dashboard apisix/apisix-dashboard
 
 ![main](_image/main.png)
 
+
+
+##  Ref:
+
+https://github.com/latermonk/minikube-in-action/blob/main/minikube-in-action.md
+
+
